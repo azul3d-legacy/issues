@@ -1,6 +1,3 @@
-Azul3D Project Issue Tracker
+# MOVED
 
-This repository is for specifically tracking project-wide issues, like
-feature requests etc. If the issue you are having is with a specific
-Azul3D package, please file the issue or feature request there instead.
-
+[All issues have been moved to the engine monorepo!](github.com/azul3d/engine/issues)
