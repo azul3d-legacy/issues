@@ -1,3 +1,3 @@
 # MOVED
 
-[All issues have been moved to the engine monorepo!](github.com/azul3d/engine/issues)
+[All issues have been moved to the engine monorepo!](https://github.com/azul3d/engine/issues)
